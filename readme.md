@@ -1,3 +1,4 @@
+[![GoDoc](https://godoc.org/github.com/padiazg/go-sps30?status.svg)](https://godoc.org/github.com/padiazg/go-sps30)
 [![MIT License](http://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 # Sensorion SPS30 
